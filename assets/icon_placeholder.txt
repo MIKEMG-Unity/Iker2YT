@@ -1,0 +1,10 @@
+# Icono placeholder - reemplazar con un archivo .ico real
+# Este archivo es solo para que la estructura del proyecto esté completa
+# Para un icono real, necesitarías un archivo .ico de 16x16, 32x32, etc.
+
+# Puedes crear un icono usando:
+# - Online: favicon.io, iconarchive.com
+# - Software: GIMP, Paint.NET, Photoshop
+# - Convertir desde PNG: online-convert.com
+
+# El icono debe llamarse icon.ico y estar en esta carpeta
